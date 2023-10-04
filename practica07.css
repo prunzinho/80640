@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    box-shadow: 10px 20px 20px;
+    width: 400px;
+    margin: 0 auto  ;
+    border: 1px solid lightgray;
+    padding: 15px;
+    border-radius: 5%;
+}
+label{
+    display:block;
+}
+fieldset{
+    margin: 0px;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: px solid purple;
+}
+input{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid lightblue;
+    border-radius: 5%;
+}
+input[type="submit"] {
+    background-color: blue;
+    color: white;
+}
+h1{
+    text-align: center ;
+    color: black ;
+}
+
