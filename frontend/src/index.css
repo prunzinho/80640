@@ -1,0 +1,20 @@
+/* Agrega estilos para el h1, el formulario y el botón */
+h1 {
+  text-align: center;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+  box-shadow: 15px 20px 10px;
+}
+
+Button {
+  /* Cambia 'size' a 'font-size' para ajustar el tamaño del texto del botón */
+  font-size: 100px; /* Ajusta el tamaño del texto del botón a 20px */
+  background-color: #4caf50; /* Cambia el color de fondo a verde (#4caf50) */
+  color: white; /* Cambia el color del texto a blanco */
+  padding: 15px 20px; /* Ajusta el relleno del botón (arriba/abajo, izquierda/derecha) */
+  border: none; /* Elimina el borde del botón si lo deseas */
+}
